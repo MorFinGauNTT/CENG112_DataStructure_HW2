@@ -354,4 +354,4 @@ private static ArrayStack<Room> getRoomStack(String roomType, ArrayStack<Room> s
         }
     }
 }
-// G-04 300201015 Osman Altunbağ - 300201023 Zübeyr Almaho - 300201093 Yunus Emre Sapan
+//  Osman Altunbağ -  Zübeyr Almaho -  Yunus Emre Sapan
